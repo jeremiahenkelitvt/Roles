@@ -1,0 +1,1 @@
+{"properties":{"roleName":"Log Stream Reader","description":"","assignableScopes":["/subscriptions/8011798e-6949-413f-899f-5aceb77b5d9f"],"permissions":[{"actions":["Microsoft.Web/sites/*"],"notActions":["*/write","*/delete","Microsoft.Web/sites/start/action","Microsoft.Web/sites/stop/action","Microsoft.Web/sites/restart/action"],"dataActions":[],"notDataActions":["*"]}]}}
